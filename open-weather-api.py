@@ -1,5 +1,5 @@
 import requests
-APPID = '0bbadc1a26b25cadc263ef83f3c5d35e'
+APPID = 'Put your api-key here'
 
 cities = ['London', 'Paris', 'Berlin', 'New York', 'Tokyo', 'Moscow']
 temps = []
